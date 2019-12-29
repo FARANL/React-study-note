@@ -1,0 +1,2 @@
+只有Class类型的component拥有state。
+state是私有的数据，只有在初始化时可以直接复制，否则要调用setState方法对state值进行修改。
